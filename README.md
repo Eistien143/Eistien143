@@ -15,7 +15,7 @@
 **About Me:**
 
 - I’m currently working on __[Movie Booking](https://github.com/Eistien143/movie_booking)__.
-- I’m currently learning __React__, __Vue__, __React Native__, & __Flutter__
+- I’m currently learning __React__, __Vue__, __React Native__, & __Flutter__,__NodeJS__,__Python__,NextJS__
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I don't Know even me

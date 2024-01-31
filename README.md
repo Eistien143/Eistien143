@@ -14,7 +14,7 @@
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Movie Booking](https://github.com/Eistien143/movie_booking)__.
+- I'm currently working on live project and upgrade yourself by coding.
 - I’m currently learning __React__,__React Native__,__NodeJS__,__Python__,NextJS__,__Golang__,__postgres__,
 - I’m looking to collaborate on anything!
 - MERN Development of Mongo, SQL server, NO SQL DB

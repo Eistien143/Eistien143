@@ -19,7 +19,7 @@
 - I’m looking to collaborate on anything!
 - MERN Development of Mongo, SQL server, NO SQL DB
 - Ask me about anything, I am happy to help.
-- How to reach me: eistnewtramanujan00000@gmail.com
+- How to reach me: __eistnewtramanujan00000@gmail.com__
 
 ---
 
